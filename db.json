@@ -1,0 +1,13 @@
+{
+  "todos": [
+    { "id": 1, "title": "react", "done": "false" },
+    { "id": 2, "title": "angular", "done": "false" },
+    { "id": 3, "title": "vue", "done": "false" }
+  ],
+  "items": [
+    { "id": 1, "name": "angular", "price": 5000, "image" : "https://images.unsplash.com/photo-1471879832106-c7ab9e0cee23?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80" },
+    { "id": 2, "name": "react", "price": 5000, "image" : "https://via.placeholder.com/600/771796" },
+    { "id": 3, "name": "vue", "price": 5000, "image" : "https://via.placeholder.com/600/771796" }
+  ]
+  
+}
